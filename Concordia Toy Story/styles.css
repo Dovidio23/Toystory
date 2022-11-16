@@ -1,0 +1,124 @@
+h1 {
+  font-family: 'Cabin', sans-serif;
+  color: #960001;
+  font-size: 35px;
+}
+
+p {
+  font-family: sans-serif;
+  color: white;
+  font-size: 17px;
+}
+
+h2 {
+  color: #960001;
+  font-size: 30px;
+  margin-left: 150px;
+  margin-bottom: -7px;
+  font-family: 'Cabin', sans-serif;
+}
+
+h3 {
+  font-size: 24px;
+  font-family: 'Cabin', sans-serif;
+  color: #960001;
+}
+
+body {
+  background-color: #5582c6
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+hr {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 25px;
+}
+
+a {
+  cursor: pointer;
+  color: #e2e55f;
+  text-decoration: none;
+}
+
+.wallpaper {
+  width: 1900px;
+  height: 800px;
+}
+
+.container {
+  margin-left: 150px;
+  margin-top: -200px;
+  padding: 8px;
+  display: flex;
+  width: 400px;
+  height: 400px;
+  align-items: center;
+}
+
+.img-txt {
+  flex-basis: 150%;
+  background-color: lightgrey;
+}
+
+.p-summary {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.pfpcontainer {
+  height: 150px;
+  width: 150px;
+  float: left;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.profileheader {
+  margin: -3px;
+}
+
+.flexcontainer {
+  display: flex;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.yellowbox {
+  height: 80px;
+  background-color: #e2e55f;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.txtyellow {
+  padding-left: 80px;
+  padding-top: 30px;
+  color: #960001;
+}
+
+.rate {
+  margin-left: 150px;
+}
+
+.input {
+  width: 300px;
+  height: 30px;
+  border: none;
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+
+.Button {
+  background-color: #79519f;
+  width: 305px;
+  height: 35px;
+  border: none;
+  color: white;
+  box-shadow: 2px 2px 10px grey;
+  font-size: 17px;
+  margin-left: 150px;
+}
